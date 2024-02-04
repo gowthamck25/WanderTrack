@@ -1,0 +1,40 @@
+{
+  "cities": [
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2019-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": 17806751
+    },
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2022-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": 98443197
+    },
+    {
+      "cityName": "Kundah",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "11/06/2023",
+      "notes": "Trip to Nilgiris",
+      "position": {
+        "lat": "11.275487064900608",
+        "lng": "76.65592746027765"
+      },
+      "id": 98443198
+    }
+  ]
+}
